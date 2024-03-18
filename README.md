@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Project setup
+```
+npm link datav-libs-dev
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
